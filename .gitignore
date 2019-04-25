@@ -1,0 +1,4 @@
+/.idea
+/news/data
+/news/*.xls
+/news/__pycache__
